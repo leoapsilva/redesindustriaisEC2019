@@ -20,3 +20,7 @@ Materiais da Disciplina de Redes Industriais para Engenharia de Computação 201
 - [Inovações da Indústria 4.0 na fábrica de automóveis: Case Fiat Betim](https://www.youtube.com/watch?v=wETEKO6Yzi0)
 
 
+## ARD
+https://www.youtube.com/watch?v=WzRRP2smo5k
+https://www.youtube.com/watch?v=CrHJj4OQ6Sw
+https://www.youtube.com/watch?v=ie7_tBWE9Co
