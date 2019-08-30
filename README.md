@@ -14,7 +14,9 @@ Materiais da Disciplina de Redes Industriais para Engenharia de Computação 201
 - [Automação de fábrica de automóveis: Case Honda Civic (Reino Unido) 2017](https://www.youtube.com/watch?v=kO0pv3ysz10)
 - [Automação de fábria de automóveis: Case Fiat Motor Firefly 1 de 2](https://www.youtube.com/watch?v=Is47bb-8VHY)
 - [Automação de fábria de automóveis: Case Fiat Motor Firefly 1 de 2](https://www.youtube.com/watch?v=ig4OiS7SnJo)
-
+- [Redes Profibus](https://www.youtube.com/watch?v=UlC63shnH7w)
+- [Redes Profibus x Profinet](https://www.youtube.com/watch?v=XQKo4_kcQp0&list=PLbPCja9kIc7WAADlSYqdNW_KflO_DDW1c&index=3)
+- [O que é um CLP?](https://www.youtube.com/watch?v=RnYqTpuLWAA)
 
 ## Indústria 4.0
 - [Inovações da Indústria 4.0 na fábrica de automóveis: Case Fiat Betim](https://www.youtube.com/watch?v=wETEKO6Yzi0)
